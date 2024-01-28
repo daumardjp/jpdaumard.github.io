@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body style="background-color: #FEFEFE;">
+    <div class="container">
+        <header>
+            <a href="/" class="menu-button">Index</a>
+            <div class="contact-button">
+                <a href="mailto:daumardjp@gmail.com">Contact</a>
+            </div>
+            <hr class="header-divider">
+        </header>
+
+        <main class="content">
+            <div class="grid">
+                {% for post in site.posts %}
+                    <div class="grid-item">
+                        <div class="grid-item-image">
+                            <a href="{{ post.url | relative_url }}">
+                                <img src="{{ post.image | default: '/assets/img/image.jpg' }}" alt="{{ post.title }}" loading="lazy">
+                            </a>
+                        </div>
+                        <div class="category">{{ post.category }}</div>
+                        <div class="title">{{ post.title }}</div>
+                    </div>
+                {% endfor %}
+            </div>
+        </main>
+
+        <footer>
+            <!-- Your site's footer content here -->
+        </footer>
+    </div>
+
+    <!-- External JavaScript, if needed -->
+    <script src="{{ '/assets/js/dark-mode-toggle.js' | relative_url }}"></script>
+</body>
+
+</html>

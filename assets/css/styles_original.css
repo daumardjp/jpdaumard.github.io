@@ -1,0 +1,306 @@
+/* Univers Light 45 */
+@font-face {
+  font-family: 'Univers Light 45';
+  src: url('/assets/fonts/UniversLight.woff') format('woff');
+  font-weight: 1;
+  font-style: normal;
+}
+
+/* Univers Light */
+@font-face {
+  font-family: 'Univers Light';
+  src: url('/assets/fonts/UniversLight55.woff') format('woff');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+/* Univers Light Oblique */
+@font-face {
+  font-family: 'Univers Light Oblique';
+  src: url('/assets/fonts/UniversObl55.woff') format('woff');
+  font-weight: normal;
+  font-style: oblique;
+}
+
+/* Univers Bold */
+@font-face {
+  font-family: 'Univers Bold';
+  src: url('/assets/fonts/UniversBold55.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+
+/* Horizontal line styles */
+.header-divider {
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 1);
+  position: relative; /* Changed from absolute to relative */
+  top: 10.5rem; /* Adjust as needed */
+}
+
+
+
+/* Styles for the Menu and Contact buttons */
+.menu-button {
+  position: absolute;
+  top: 13px;
+  left: 29px;
+  font-family: 'Univers Light', sans-serif; /* Change to your desired font */
+  font-size: 1.45rem; /* Change to your desired font size */
+  font-weight: lighter;
+  color: #000; /* Change to your desired text color */
+  text-decoration: underline; /* Remove underlining if needed */
+  text-decoration-thickness: .7px;
+  text-underline-offset: 6px;
+}
+
+.contact-button a {
+  position: absolute;
+  top: 13px;
+  right: 29px;
+  font-family: 'Univers Light', sans-serif; /* Change to your desired font */
+  font-size: 1.45rem; /* Change to your desired font size */
+  color: #000; /* Change to your desired text color */
+  text-decoration: none; /* Remove underlining if needed */
+}
+
+.contact-button a:hover {
+  color: #000;
+  text-decoration: underline; /* Remove underlining if needed */
+  text-decoration-thickness: .7px;
+  text-underline-offset: 6px;
+}
+
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+
+.post-previews-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns */
+  gap: 10px;
+  justify-content: center; /* Centers the grid items horizontally */
+  margin-left: 6rem;
+}
+
+.post-preview .post-link {
+  display: inline; /* Instead of inline-block */
+  text-align: center;
+  text-decoration: none; /* Ensures text is not underlined */
+  color: black; /* Default text color */
+}
+
+/* Hover state styling for the title within the link */
+.post-preview .post-link:hover h2 {
+  color: #FF3E2F; /* Changes text color to red on hover */
+  /* text-decoration: underline; /* Remove underlining if needed */
+  /* text-decoration-thickness: .7px;*/
+  /* text-underline-offset: 6px;*/
+}
+}
+
+.post-preview .post-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  max-width: 100%; /* Restrict image width */
+  height: auto;
+}
+
+/* Styling for the post title within the block */
+.post-preview h2 {
+  font-family: 'Univers Light 45';
+  font-size: 1.15rem;
+  margin-top: 30px; /* Space between image and title */
+  margin-bottom: 80px; /* Optional: Adjusts space below the title */
+}
+
+/* Ensuring the post-preview block itself does not add extra width */
+.post-preview {
+  display: inline-block; /* Encapsulates the content */
+  text-align: center; 
+  max-width: 80%; /* Ensures post preview doesn't exceed grid cell */
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  .post-previews-container {
+    grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .post-previews-container {
+    grid-template-columns: 1fr; /* One column on very small screens */
+  }
+}
+
+
+
+
+
+/* Base background color for the entire site */
+body {
+  background-color: #FAFAFA;
+  font-family: 'Univers Light', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  word-spacing: -0.025em;
+  color: #111111;
+}
+
+
+/* Container for the post content area */
+.post-content {
+  position: relative;
+  width: 48%;
+  margin-left: 15%;
+  margin-right: 37%; /* Large right margin for notes */
+  margin-top: 2em;
+}
+
+.post-date {
+  display: none;
+}
+
+/* Styling for header elements */
+h1, h2, h3, h4, h5, h6 {
+  color: #333333;
+}
+
+.post-content h1 {
+  font-family: 'Univers Light';
+  font-size: 2em; /* Adjust the size as needed */
+  margin-bottom: 1em; /* Space below the title */
+  margin-top: 2em;
+  counter-reset: sidenote-counter; /* Initializes the counter */
+}
+
+.post-body {
+  margin-top: 0em; /* Space between the title and the content */
+}
+
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 1.96rem;
+  font-size: 1.0rem;
+  line-height: 1.96;
+  vertical-align: baseline;
+  position: relative;
+}
+
+/* Style for the index near annotated word */
+.sidenote-number { 
+  counter-increment: sidenote-counter; 
+}
+
+/* Style for the index near annotated word */
+.sidenote-number:after, .sidenote:before { 
+  content: counter(sidenote-counter) " ";
+  font-family: Univers Light;
+  color: $contrast-color; /* added color*/
+  position: relative;
+  vertical-align: baseline; 
+}
+
+.sidenote-number:after { 
+  content: counter(sidenote-counter);
+  font-size: .8rem;
+  top: -0.5rem;
+  left: 0.1rem; 
+}
+
+.sidenote:before { 
+  content: counter(sidenote-counter) ".\000a0"; /* this is unicode for a non-breaking space */
+  color: $contrast-color;
+  top: 0rem; /*removed superscripting for numerical reference in sidenote */
+} 
+
+/* Adjustments for list items containing side notes */
+li .sidenote, li .marginnote {
+  margin-right: -80%;
+
+}
+
+/* Adjustments for blockquotes containing side notes */
+blockquote .sidenote, blockquote .marginnote {
+  margin-right: -79%;
+}
+
+
+.epigraph blockquote {
+  border-left: none;
+  margin-bottom: -3%;
+  /* ... other styles ... */
+}
+
+
+
+/* Style for images to fit within the text flow */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem; /* Center images with margin below */
+}
+
+/* Blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #cccccc;
+  padding-left: 1rem;
+  margin-left: 0;
+  margin-right: 2rem;
+}
+
+/* Ensure that links stand out */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style for epigraphs */
+.epigraph {
+  font-style: italic;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+/* Style for figures */
+figure {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 0.8em;
+  color: #666666;
+}
+

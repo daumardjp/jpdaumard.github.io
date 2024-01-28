@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <style>
+    body.dark-mode {
+      background-color: #333541;
+      color: #D8D9E2;
+    }
+  </style>
+
+  <script>
+    (function() {
+      var savedTheme = localStorage.getItem('theme-mode') || 'normal';
+      if (savedTheme === 'dark-mode') {
+        document.body.classList.add('dark-mode');
+      }
+    })();
+  </script> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="icon" href="/assets/img/icon3.jpg" type="image/x-icon">
+
+</head>
+<body id="top">
+
+  <div class="container">
+    <header>
+      <div class="header-top"> <!-- Encapsulate title and menu in a div for layout -->
+        <div class="header-left">
+           <h1><a href="/" class="header-title-link">Jean-Pierre Daumard</a></h1>
+        </div>
+        <div class="header-right">
+          <nav>
+            <ul>
+              <li><a href="/indexation.html">Index</a></li>
+              <li><a href="mailto:daumardjp@gmail.com">Contact</a></li>
+              <li><a href="#" id="dark-mode-toggle" aria-label="Toggle Dark Mode"></a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <hr class="header-divider"> 
+    </header>
+    <main class="content">
+      <!-- Main content area where your posts will go -->
+      <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+    </main>
+    <footer>
+      <!-- Your site's footer -->
+    </footer>
+  </div>
+  <!-- External JavaScript -->
+  <script src="/assets/js/dark-mode-toggle.js"></script>
+  <script src="/assets/js/index-sort.js"></script>
+  <script src="/assets/js/text-animation.js"></script>
+  <script src="/assets/js/lazy-load.js"></script>
+  <script src="/assets/js/orphaned-punctuation.js"></script>
+</body>
+</html>

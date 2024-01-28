@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<main>
+  <div class="grid">
+    {% for post in site.posts %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}" class="post-link">
+          <div class="grid-item-image">
+            <img src="{{ post.image | default: '/assets/img/image.jpg' }}" alt="{{ post.title }}" loading="lazy" class="post-image">
+          </div>
+          <p class="category">{{ post.category }}</p>
+          <p class="title">{{ post.title }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</main>
+

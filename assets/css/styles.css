@@ -590,18 +590,18 @@ body.dark-mode .article-index tr:hover a {
         padding-left: .5rem !important; /* Increase left padding as needed */
         padding-right: .5rem !important;
         letter-spacing: 0em;
-        word-spacing: .05em;
+        word-spacing: .04em;
     }
 
     .header-left h1 {
-        font-size: .95em !important;
+        font-size: .96em !important;
 
     }
 
     .header-right li, .header-right a {
         padding: 0;
         margin: 0;
-        font-size: .95em !important;
+        font-size: .96em !important;
     }
 
     #dark-mode-toggle {
@@ -671,17 +671,17 @@ body.dark-mode .article-index tr:hover a {
 
     .post-body {
       line-height: 1.3em;
-      font-size: .95em;
+      font-size: .96em;
     }
 
     .post-category {
-      font-size: .95em;
+      font-size: .96em;
       right: 0;
       text-align: right;
     }
 
     .post-content h1 {
-      font-size: .95em;
+      font-size: .96em;
     }
 
 

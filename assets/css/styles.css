@@ -154,7 +154,7 @@ header {
   grid-template-columns: repeat(3, 1fr); /* 3 columns grid */
   column-gap: 60px; /* Space between the grid items */
   row-gap: 90px;
-  width: 80%; /* Full width */
+  width: 85%; /* Full width */
   margin: 0 auto; 
   padding: 0; /* Reset paddings */
 }

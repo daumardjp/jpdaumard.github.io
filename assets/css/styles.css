@@ -589,9 +589,9 @@ body.dark-mode .article-index tr:hover a {
         max-width: 100% !important; /* Ensure it spans the full width */
         padding-left: .5rem !important; /* Increase left padding as needed */
         padding-right: .5rem !important;
-        padding-top: .3rem !important;
+        padding-top: .5rem !important;
         letter-spacing: 0em;
-        word-spacing: .04em;
+        word-spacing: .045em;
     }
 
     .header-left h1 {

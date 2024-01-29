@@ -593,6 +593,10 @@ body.dark-mode .article-index tr:hover a {
         word-spacing: .045em;
     }
 
+    .content {
+      margin-top: 4rem;
+    }
+  
     .header-left h1 {
         font-size: .96em !important;
 

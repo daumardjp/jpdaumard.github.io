@@ -660,7 +660,7 @@ body.dark-mode .article-index tr:hover a {
     }
 
     .grid-item .title {
-      font-size: 1em; 
+      font-size: .96em; 
       margin: 10px 0;
     }
 

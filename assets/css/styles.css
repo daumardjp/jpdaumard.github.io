@@ -710,6 +710,10 @@ body.dark-mode .article-index tr:hover a {
         color: #FF3E2F;
     }
 
+    .epigraph blockquote {
+      font-size: .82em;
+    }
+  
     .margin-toggle:checked + .sidenote-number + .sidenote {
         display: block;
     }

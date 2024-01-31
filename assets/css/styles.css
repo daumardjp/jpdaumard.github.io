@@ -422,7 +422,7 @@ footer {
 /* Style for the horizontal line at the top of the content */
 .content-top-divider {
   height: .5px; 
-  background-color: rgba(0, 0, 0, 0.5); 
+  background-color: #111; 
   margin-top: 120px;
   margin-bottom: 10px; 
 

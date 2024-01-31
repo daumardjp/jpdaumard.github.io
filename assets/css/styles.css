@@ -31,7 +31,7 @@ body {
   visibility: hidden;
   opacity: 0;
   transition: opacity 0.5s ease-out;
-  background-color: #FEFEFE;
+  background-color: #FCFCFC;
 }
 
 /* Header Structure */
@@ -85,6 +85,7 @@ header {
 .header-right a:focus {
   text-decoration: underline;
   text-underline-offset: 0.3em; /* Adjust this value as needed */
+  text-decoration-thickness: 1px;
 }
 
 
@@ -222,6 +223,8 @@ header {
   margin-left: 18%;
   margin-right: 32%; /* Large right margin for notes */
   margin-top: 2em;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.3em;
 }
 
 .post-date {
@@ -241,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2em;
   counter-reset: sidenote-counter; /* Initializes the counter */
   text-decoration: underline;
-  text-underline-offset: 0.3em;
+  text-decoration-thickness: 1px;
 }
 
 article.post-content h1 {
@@ -251,7 +254,7 @@ article.post-content h1 {
 
 .post-content u {
   text-decoration: underline;
-  text-underline-offset: 0.3em; /* Increase this value to move the underline further from the text */
+  text-decoration-thickness: 1px;
 }
 
 .post-content strong {

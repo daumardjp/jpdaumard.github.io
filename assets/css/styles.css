@@ -34,6 +34,11 @@ body {
   background-color: #FCFCFC;
 }
 
+/* Background color of selected text */
+::selection {
+  background: #C8FF64; 
+}
+
 /* Header Structure */
 header {
   position: relative;
@@ -565,6 +570,12 @@ body.dark-mode .article-index tr:hover {
 
 body.dark-mode .article-index tr:hover a {
     color: #FF3E2F; 
+}
+
+/* Background color of selected text */
+.dark-mode ::selection {
+  background: #C5C6FF; 
+  color: #111;
 }
 
 /* Thin frame around images */

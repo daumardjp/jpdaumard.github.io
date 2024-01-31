@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Le Front des Cathédrales"
+title:  "Le front des cathédrales"
 category: "Essai"
 author: "Jean-Pierre Daumard"
-keywords: "Bernanos, Notre-Dame, incendie" 
+keywords: "Bernanos, Notre-Dame, incendie, gilets-jaunes, muséification" 
 image: "/assets/img/ndame2.png"
 ---
 

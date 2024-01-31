@@ -21,7 +21,7 @@ Et puis, d’avril à mai était programmée toute une série de conférences su
 écrivain chrétien, « théologien de la sainteté », auteur du Journal d’un curé de campagne, ce curé
 pour qui « Tout est grâce ». Le 29 avril devait commencer un cycle de conférences de Mgr
 Chauvet sur Georges Bernanos « prophète de notre temps » (notre temps caractérisé pour
-Bernanos comme celui d’une « conspiration universelle contre toute espèce de vie intérieure »)
+Bernanos comme celui d’une « conspiration universelle contre toute espèce de vie intérieure »).
 {% sidenote 1 '*La France contre les robots*.' %}
 
 Mais Notre-Dame, incendiée, est aujourd’hui presque en ruines.

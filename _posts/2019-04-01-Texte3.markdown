@@ -1,8 +1,86 @@
 ---
 layout: post
-title:  "Notre-Dame"
+title:  "Le Front des Cathédrales"
 category: "Essai"
+author: "Jean-Pierre Daumard"
+keywords: "Bernanos, Notre-Dame, incendie" 
 image: "/assets/img/ndame2.png"
 ---
 
-(A venir)
+<br/>
+
+L’expression est de Georges Bernanos.
+
+Bernanos, qui écrivait: « La France est le pays des cathédrales, des saints, des héros, des fous. »
+La cathédrale des cathédrales en France, Notre-Dame de Paris, proie des flammes, s’est
+effondrée, le 15 avril 2019.
+Elle s’est effondrée le mardi de la semaine de Pâques.
+Il devait y avoir, le 21 mai 2019 à Notre-Dame de Paris une « veillée de prière pour la vie », le 19
+avril il devait y avoir un chemin de Croix sur le parvis de Notre-Dame.
+Et puis, d’avril à mai était programmée toute une série de conférences sur Georges Bernanos,
+écrivain chrétien, « théologien de la sainteté », auteur du Journal d’un curé de campagne, ce curé
+pour qui « Tout est grâce ». Le 29 avril devait commencer un cycle de conférences de Mgr
+Chauvet sur Georges Bernanos « prophète de notre temps » (notre temps caractérisé pour
+Bernanos comme celui d’une « conspiration universelle contre toute espèce de vie intérieure »)
+{% sidenote 1 '*La France contre les robots*.' %}
+
+Mais Notre-Dame, incendiée, est aujourd’hui presque en ruines.
+Georges Bernanos, le 22 août 1940, écrivit un article intitulé *Le front des cathédrales*, dans lequel
+il comparait le front de la ligne Maginot, enfoncé, au front des cathédrales, Chartres ou Notre-Dame de Paris, au « front des cathédrales » dont il se félicitait que celui-ci au moins, contrairement à celui-là, qu’il eût « tenu bon ».
+
+Faut-il croire qu’hier lui aussi, finalement, s’est définitivement effondré ?
+Georges Bernanos développait ainsi:
+« Le front des cathédrales est celui du peuple français, je veux dire de cette part encore si grande
+de notre peuple qui réagit naturellement, selon sa nature, et par des mouvements spontanés, que
+les jeunes réalistes qualifient dédaigneusement d’ « entraînements sentimentaux » mais qui sont
+réellement des réflexes héréditaires, formés au cours des siècles, et d’une humanité mille fois plus
+précieuse que les complexes artificiels dont s’enorgueillissent si comiquement de pauvres petits
+jeunes gens sans fraîcheur, macérés dans toutes les essences intellectuelles ou spirituelles à la
+mode, comme des cornichons dans le vinaigre. »
+
+Cette réaction naturelle du peuple français, dans ses « mouvements spontanés (…) qui sont
+réellement des réflexes héréditaires », nous l’avons vue récemment dans le mouvement des
+« gilets jaunes » qui était par dessus tout refus de l’humiliation. En cela ils se sont montrés « fils
+des cathédrales ».
+Ce n’est pas la première fois que la France est atteinte en son coeur par une destruction de
+cathédrale. On se souvient que le 6 août 1914 la cathédrale de Reims, coeur historique de la
+France dans sa tradition royale et chrétienne, est délibérément bombardée par l’armée allemande;
+« Une horrible main l’a écorchée vive » écrit alors Albert Londres. Toute la France s’en émeut et
+pas seulement la France catholique. Barrès bien sûr mais aussi Anatole France et Proust.
+Notre-Dame de Paris avait pourtant jusqu’ici résisté à tout. Tout y compris la Terreur de 1793
+(quand les reliques de Sainte Geneviève étaient publiquement brûlées), tout y compris 1871
+(quand les dirigeants de la Commune font scier la croix du fronton de Sainte Geneviève et celle du
+dôme pour les remplacer par des drapeaux rouges mais un délégué de la Commune réussit à
+convaincre les gardes nationaux de ne pas détruire Notre-Dame) tout y compris l’occupation
+allemande, si grosse pourtant de menaces et de dangers…
+
+Une carte postale datant de 1914 montre, devant la cathédrale en en flammes, Jeanne d’Arc et
+Guillaume II en posture de confrontation. Quelle sorte de confrontation faudrait-il aujourd’hui
+figurer au premier plan de Notre-Dame en flammes ? Quel signe sans signature s’agirait-il d’y voir ?
+Et quelles postures choisira-t-on de prendre dans toutes les tentatives d’explications, de
+supputations, d’interprétations - y compris les plus folles - pour essayer de déchiffrer l’énigme du
+désastre ?
+
+Signe et avertissement à Macron peut-être, pour commencer.
+Macron, le 26 août 2018, a offert au Pape une édition rare du *Journal d’un curé de campagne* de
+Bernanos traduit en italien mais Macron, comme à son habitude, agit à contresens de ce qu’il veut
+faire croire et s’empresse toujours d’avaliser, avec la morgue et l’impudence qui le caractérisent,
+l’effondrement de tous les fronts, à commencer par celui de la conscience nationale, livrant le pays
+et son peuple aux Pharisiens de toutes sortes.
+
+Le risque est grand sous une telle « présidence », au cas où il serait possible de réparer les
+ravages de l’incendie, de vouer la cathédrale Notre-Dame à ne plus être que « curiosité
+archéologique », selon le mot de Marcel Proust dans son fameux article au Figaro, datant de 1904,
+peu de temps avant la loi de séparation de l’Église et de l’État ne fût votée, où il adjurait Briand de
+ne point ôter aux églises l’âme qui leur reste en les désaffectant du culte et des rites qui les
+animent et en les transformant en « grève desséchée où de géants coquillages ciselés
+sembleraient comme échoués, vidés de la vie qui les habita, et n’apportant même plus à l’oreille
+qui se pencherait sur eux la vague rumeur d’autrefois, simples pièces de musée, musées glacés
+elles-mêmes » où l’on ne respirerait plus que « l’odeur sépulcrale des musées »
+Le risque est grand donc que Notre-Dame, au cas où elle pourrait être reconstruite, ne soit plus
+que, au mieux « lieu de mémoire » comme on aime dire aujourd’hui, au pire « centre d’animation
+culturelle » avant de finir « centre commercial »!…
+
+Puissent les flammes de Notre-Dame être le signe pour notre peuple d’un retour d’ardeur
+combattante et pour Macron comme un retour de flamme où se brûler, comme à une épreuve de
+vérité, une ordalie médiévale.

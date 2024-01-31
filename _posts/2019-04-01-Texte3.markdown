@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le Front des Cathédrales"
+title:  "Le front des cathédrales"
 category: "Essai"
 author: "Jean-Pierre Daumard"
 keywords: "Bernanos, Notre-Dame, incendie" 

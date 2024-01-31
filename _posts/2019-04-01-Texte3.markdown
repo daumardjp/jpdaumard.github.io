@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Le front des cathédrales"
+title:  "Le Front des Cathédrales"
 category: "Essai"
 author: "Jean-Pierre Daumard"
-keywords: "Bernanos, Notre-Dame, incendie, gilets-jaunes, muséification" 
+keywords: "Bernanos, Notre-Dame, incendie" 
 image: "/assets/img/ndame2.png"
 ---
 
@@ -18,15 +18,15 @@ Elle s’est effondrée le mardi de la semaine de Pâques.
 Il devait y avoir, le 21 mai 2019 à Notre-Dame de Paris une « veillée de prière pour la vie », le 19
 avril il devait y avoir un chemin de Croix sur le parvis de Notre-Dame.
 Et puis, d’avril à mai était programmée toute une série de conférences sur Georges Bernanos,
-écrivain chrétien, « théologien de la sainteté », auteur du Journal d’un curé de campagne, ce curé
+écrivain chrétien, « théologien de la sainteté », auteur du *Journal d’un curé de campagne*, ce curé
 pour qui « Tout est grâce ». Le 29 avril devait commencer un cycle de conférences de Mgr
 Chauvet sur Georges Bernanos « prophète de notre temps » (notre temps caractérisé pour
-Bernanos comme celui d’une « conspiration universelle contre toute espèce de vie intérieure »).
+Bernanos comme celui d’une « conspiration universelle contre toute espèce de vie intérieure »)
 {% sidenote 1 '*La France contre les robots*.' %}
 
 Mais Notre-Dame, incendiée, est aujourd’hui presque en ruines.
 Georges Bernanos, le 22 août 1940, écrivit un article intitulé *Le front des cathédrales*, dans lequel
-il comparait le front de la ligne Maginot, enfoncé, au front des cathédrales, Chartres ou Notre-Dame de Paris, au « front des cathédrales » dont il se félicitait que celui-ci au moins, contrairement à celui-là, qu’il eût « tenu bon ».
+il comparait le front de la ligne Maginot, enfoncé, au « front des cathédrales », Chartres ou Notre-Dame de Paris, dont il se félicitait que celui-ci au moins, contrairement à celui-là, qu’il eût « tenu bon ».
 
 Faut-il croire qu’hier lui aussi, finalement, s’est définitivement effondré ?
 Georges Bernanos développait ainsi:
@@ -79,7 +79,7 @@ qui se pencherait sur eux la vague rumeur d’autrefois, simples pièces de mus�
 elles-mêmes » où l’on ne respirerait plus que « l’odeur sépulcrale des musées »
 Le risque est grand donc que Notre-Dame, au cas où elle pourrait être reconstruite, ne soit plus
 que, au mieux « lieu de mémoire » comme on aime dire aujourd’hui, au pire « centre d’animation
-culturelle » avant de finir « centre commercial » !…
+culturelle » avant de finir « centre commercial »!…
 
 Puissent les flammes de Notre-Dame être le signe pour notre peuple d’un retour d’ardeur
 combattante et pour Macron comme un retour de flamme où se brûler, comme à une épreuve de
